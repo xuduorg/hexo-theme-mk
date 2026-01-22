@@ -1,9 +1,3 @@
-这是一个为 **hexo-theme-mk** 编写的完善、专业的 `README.md` 文档。
-
-你可以直接将以下内容复制并保存为主题根目录下的 `README.md` 文件。
-
----
-
 # Hexo Theme MK
 
 <div align="center">
@@ -44,7 +38,7 @@ Hexo-Theme-MK 不仅仅是简单的移植，更是一次从动态到静态的底
 
 ## 👁 演示预览
 
-- **在线演示**: [点击查看演示站点](https://www.xudu.org) (请替换为你的链接)
+- **在线演示**: [点击查看演示站点](https://www.xudu.org)
 - **原版主题**: [mkBlog (WordPress)](https://mkblog.cn/)
 
 ---
