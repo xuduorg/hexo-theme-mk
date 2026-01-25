@@ -162,7 +162,7 @@ waline:
 | 在线二维码 | `page-qrcode` | `hexo new page qrcode` |
 | 随机密码生成 | `page-password` | `hexo new page password` |
 | 代码高亮转换 | `page-highlight` | `hexo new page code-highlight` |
-| 全球直播聚合 | `page-webcams` | `hexo new page live` (需配置 `_data/webcams.yml`) |
+| 全球直播聚合 | `page-webcams` | `hexo new page live` |
 
 ### 4. 文章短代码 (Tag Plugins)
 在 Markdown 中直接使用，增强排版：
