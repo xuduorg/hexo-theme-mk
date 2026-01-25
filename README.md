@@ -1,7 +1,7 @@
 # Hexo Theme MK
 
 <div align="center">
-  <img src="source/img/theme-mk-cover.jpg" alt="Theme Preview" width="800">
+  <img src="https://www.xudu.org/images/2026/01/theme-mk-cover.png" alt="Theme Preview" width="800">
   <br><br>
   
   [![Hexo](https://img.shields.io/badge/Hexo-%3E%3D%205.0-blue?logo=hexo)](https://hexo.io)
